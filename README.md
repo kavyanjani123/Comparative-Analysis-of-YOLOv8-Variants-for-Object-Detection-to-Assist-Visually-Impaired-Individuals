@@ -6,7 +6,7 @@ This project presents a comparative evaluation of various YOLOv8 object detectio
 - Traffic signs 🚦
 - Vehicles 🚗
 
-The objective is to determine the most suitable YOLOv8 variant for **real-time assistive applications** based on metrics such as **precision**, **recall**, **mAP**, and **inference time**.
+The objective is to determine the most suitable YOLOv8 variant for **real-time assistive applications** based on metrics such as **precision**, **recall**, **mAP**.
 
 ---
 
@@ -16,7 +16,6 @@ The objective is to determine the most suitable YOLOv8 variant for **real-time a
   - Accuracy
   - Precision & Recall
   - mAP@0.5 and mAP@0.5:0.95
-  - Inference speed
 - Select the best model for real-time deployment scenarios
 
 ---
